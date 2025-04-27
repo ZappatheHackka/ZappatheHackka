@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Christopher
 
-I'm a software developer with a passion for building things that solve real problems — from automation scripts that save hours of manual work, to full-stack apps designed from scratch. I love the freedom that coding gives me to create whatever I imagine, and I’m always looking for ways to push the boundaries of what I can build.
+I'm a software developer with a passion for building things that solve real problems. From automation scripts that save hours of manual work, to full-stack apps designed from scratch, I love the freedom that coding gives me to create whatever I imagine. I’m always looking for ways to push the boundaries of what I can build.
 
 Outside of code, I’ve been lifting weights for nearly 10 years and am currently prepping for my first bodybuilding competition. I’m also an avid reader with a current fixation on American history, and have a degree in English Literature from the College of New Jersey. No matter what I'm doing, I'm always looking for ways to improve my understanding of the world and expand my base of knowledge. 
 
