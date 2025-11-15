@@ -6,7 +6,7 @@ Outside of code, I’ve developed a nice itinerary of hobbies. I love to read li
 
 ## Current Tech Interests
 Below are a few broad descriptions of the areas that interest me the most right now:
-- Networking, sockets, how data is moved between machines (see my [mesh networking project](https://github.com/ZappatheHackka/py-netmesh)! [in progress]
+- Networking, sockets, how data is moved between machines (see my [mesh networking project](https://github.com/ZappatheHackka/py-netmesh)!) [in progress]
 - Architecting data pipelines / backend systems (see my [PyPi library](https://github.com/ZappatheHackka/ft8decoder), as well as the above mesh networking project!)
 - Automation and workflow optimization (see the HubSpot automation script above- saved me hours of work!)
 
